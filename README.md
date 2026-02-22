@@ -1,6 +1,3 @@
-# vulnApp-buffer-overflow
-
-Title
 # Windows Stack-Based Buffer Overflow Exploit (VulnServer Lab)
 
 1. Overview
