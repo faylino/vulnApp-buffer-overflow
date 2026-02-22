@@ -3,7 +3,7 @@
 Title
 # Windows Stack-Based Buffer Overflow Exploit (VulnServer Lab)
 
-1️⃣ Overview
+1. Overview
 This project demonstrates exploitation of a stack-based buffer overflow
 in the TRUN command of VulnServer (Windows 7 lab environment).
 
@@ -74,5 +74,5 @@ Successful reverse shell achieved via netcat listener.
 - Fundamentals of exploit development
 
   
-5️⃣ Disclaimer
+5. Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
